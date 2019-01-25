@@ -1,2 +1,7 @@
 # PRUEBAALEJANDRO
 PRUEBA COMPATIR PROYECTO
+
+
+
+###carga de archivo
+
